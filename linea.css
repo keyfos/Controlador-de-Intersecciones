@@ -1,0 +1,203 @@
+hr.h1{
+  height: 7px;
+  width: 150px;
+  margin-left: 180px;
+  margin-right: 0px;
+  margin-bottom: : 0px;
+  background-color: green;
+}
+
+hr.h2{
+  height: 7px;
+  width:  150px;
+  margin-left: 230px;
+  margin-right: 0px;
+    margin-bottom: : 0px;
+  background-color: red;
+}
+
+
+hr.h3{
+  height: 7px;
+  width: 150px;
+  margin-left: 180px;
+  margin-right: 0px;
+  margin-top: -10px;
+  background-color: green;
+}
+
+hr.h4{
+  height: 7px;
+    width: 150px;
+  margin-left: 230px;
+  margin-right: 0px;
+  margin-top: -10px;
+    margin-bottom: : 0px;
+  background-color: green;
+}
+
+
+hr.h5{
+  height: 7px;
+  width: 150px;
+  margin-left: 180px;
+  margin-right: 0px;
+    margin-top: -10px;
+  background-color: red;
+}
+
+hr.h6{
+  height: 7px;
+    width: 150px;
+  margin-left: 230px;
+  margin-right: 0px;
+    margin-top: -10px;
+  background-color: green;
+}
+
+hr.v1{
+  height: 150px;
+    width: 7px;
+  margin-left: 170px;
+  margin-right: 0px;
+  margin-top: 0px;
+  background-color: green;
+}
+hr.v2{
+  height: 150px;
+    width: 7px;
+  margin-left: 219px;
+  margin-right: 0px;
+    margin-top: 0px;
+  background-color: green;
+}
+
+hr.v3{
+  height: 150px;
+    width: 7px;
+  margin-left: 269px;
+  margin-right: 0px;
+  margin-top: 35px;
+  background-color: green;
+}
+
+hr.v4{
+  height: 150px;
+    width: 7px;
+  margin-left: 170px;
+  margin-right: 0px;
+    margin-top: 0px;
+  background-color: green;
+}
+hr.v5{
+  height: 150px;
+    width: 7px;
+  margin-left: 219px;
+  margin-right: 0px;
+    margin-top: 0px;
+  background-color: red;
+}
+
+hr.v6{
+  height: 150px;
+    width: 7px;
+  margin-left: 269px;
+  margin-right: 100px;
+    margin-top: -170px;
+  background-color: green;
+}
+body h6.av1{
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-bottom: -1000px;
+    color: white;
+}
+body h6.av2{
+  margin-top: -10px;
+  margin-left: 150px;
+  margin-bottom: -100px;
+    color: white;
+}
+body h6.av3{
+  margin-top: -10px;
+  margin-left: 150px;
+  margin-bottom: -100px;
+    color: white;
+}
+
+body h6.c1{
+  margin-top: 100px;
+  margin-left: 180px;
+  margin-bottom: -1000px;
+    color: white;
+}
+body h6.c2{
+  margin-top: 10px;
+  margin-left: 333px;
+  margin-bottom: -1000px;
+    color: white;
+}
+body h6.c3{
+  margin-top: 10px;
+  margin-left: 378;
+  margin-bottom: -1000px;
+  color: white;
+}
+
+body h3.nombres{
+    color: #70160C;
+    margin-top: 80px;
+    margin-left: 850px;
+    font-family: cursive;
+}
+
+header {
+	width:111%; /* Establecemos que el header abarque el 100% del documento */
+	overflow:hidden; /* Eliminamos errores de float */
+	background:#91A6B2;
+	margin-bottom:40px;
+}
+
+.recomendaciones {
+  width: 20%;
+  position: fixed;
+  margin-top: 28px;
+  right: 150px;
+  resize: none;
+  color: white;
+  font-family: cursive ;
+ 	font-size:17px;
+}
+.reportes {
+  width: 20%;
+  position: fixed;
+  margin-top: 28px;
+  right: 580px;
+  resize: none;
+  color: white;
+  font-family: cursive ;
+ 	font-size:17px;
+}
+
+.wrapper {
+	width:100%; /* Establecemos que el ancho sera del 90% */
+	max-width:90%; /* Aqui le decimos que el ancho mÃ¡ximo sera de 1000px */
+	margin-top: 20px; /* Centramos los elementos */
+	overflow:hidden; /* Eliminamos errores de float */
+}
+
+header .logo {
+    color: #70160C;
+    font-size: 70px;
+    line-height: 60px;
+    margin-left: 250px;
+    margin-top: -180;
+    font-family: broadway;
+    position: fixed;
+}
+
+
+body{
+  width: 90%;
+  background: #252932;
+}
